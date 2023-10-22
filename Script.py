@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>Hii {},</b>\n\nThis is Auto Filter Bot. I can provide Movies/Series/Animes, 
-Search in our <b>@MixologyMoviesSeries</b> Group and Download ⚡"""
+Join: <b>@MixologyMoviesSeries</b> Group 👥 and Download ⚡"""
 
     HELP_TXT = """<b>Hey {}
 Here Is The Help For My Commands.</b>"""
