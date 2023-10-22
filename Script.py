@@ -185,10 +185,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """{file_caption}""" 
 
-    FORCE_SUB = """
-**You need to join @MovieMixologyManager Channel to use this bot!
+    FORCE_SUB = """You need to join @MovieMixologyManager Channel to use this bot!
 
-<b>And click on Try Again to get your file(s)!</b>.**"""
+<b>And click on Try Again to get your file(s)!</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
