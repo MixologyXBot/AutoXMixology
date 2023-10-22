@@ -93,11 +93,11 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     STATUS_TXT = """<b>⍟────[ Bot Status ]────⍟
 • Total Files: <code>{}</code>
-★ Total Users: <code>{}</code>
-★ Total Chats: <code>{}</code>
-★ Used Storage: <code>{}</code>
-★ Free Storage: <code>{}</code>
-★ Powered By: <a href='t.me/MovieMixologyManager'>Movie Mixology's Manager</a></b>
+• Total Users: <code>{}</code>
+• Total Chats: <code>{}</code>
+• Used Storage: <code>{}</code>
+• Free Storage: <code>{}</code>
+• Powered By: <a href='t.me/MovieMixologyManager'>Movie Mixology's Manager</a></b>
 •⍟─────✧❅✦❅✧─────⍟•"""
 
     LOG_TEXT_G = """#NewGroup
