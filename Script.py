@@ -143,10 +143,10 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟ
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
-    SHORTLINK_INFO = """
+    SHORTLINK_INFO = """<b>
 Create a account using link - <a href='https://dashboard.shareus.io/signup/lifetime/QH8bDv'>Link 🔗</a>
 
-Then 💬 Contact: @MixologyOwnerBot I will guide you step by step </b>
+Then 💬 Contact: @MixologyOwnerBot I will guide you step by step! </b>
 """
 
     REQINFO = """
@@ -186,15 +186,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """{file_caption}""" 
 
     FORCE_SUB = """
-**⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
+**You need to join @MovieMixologyManager Channel to use this bot!
 
-Iɴ ᴏʀᴅᴇʀ ᴛᴏ ɢᴇᴛ ᴛʜᴇ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ʏᴏᴜ.
-
-Yᴏᴜ ᴡɪʟʟ ʜᴀᴠᴇ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ ᴏғғɪᴄɪᴀʟ ᴏʀ ʙᴀᴄᴋ-ᴜᴘ ᴄʜᴀɴɴᴇʟ ғɪʀsᴛ.
-
-Tʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ '🔄 Tʀʏ Aɢᴀɪɴ' ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ.
-
-Aғᴛᴇʀ ᴛʜᴀᴛ ɪ'ʟʟ sᴇɴᴅ ʏᴏᴜ ᴛʜᴀᴛ ᴍᴏᴠɪᴇ ᴘʀɪᴠᴀᴛᴇʟʏ.**"""
+<b>And click on Try Again to get your file(s)!</b>.**"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
