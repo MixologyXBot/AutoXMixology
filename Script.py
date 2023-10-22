@@ -97,7 +97,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • Total Chats: <code>{}</code>
 • Used Storage: <code>{}</code>
 • Free Storage: <code>{}</code>
-• Powered By: <a href='t.me/MovieMixologyManager'>Movie Mixology's Manager</a></b>
+• Powered By: @MovieMixologyManager</b>
 •⍟─────✧❅✦❅✧─────⍟•"""
 
     LOG_TEXT_G = """#NewGroup
