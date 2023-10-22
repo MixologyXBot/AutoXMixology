@@ -77,7 +77,7 @@ async def pm_text(bot, message):
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
-         text=f"<b>Hello {mention} ,\n\nYou can't Get Movies/Series/Animes from here. Request it in our <a href=https://t.me/MixologyMoviesSeries>Mixology Movie, Series Group</a> Or Click on Button Below ⬇️</b>", disable_web_page_preview=True,
+         text=f"<b>Hello {user} ,\n\nYou can't Get Movies/Series/Animes from here. Request it in our <a href=https://t.me/MixologyMoviesSeries>Mixology Movie, Series Group</a> Or Click on Button Below ⬇️</b>", disable_web_page_preview=True,
          reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Mixology Movie, Series Group", url=f"https://t.me/MixologyMoviesSeries")]])
     )
     await bot.send_message(
