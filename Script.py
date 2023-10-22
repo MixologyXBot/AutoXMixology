@@ -10,9 +10,8 @@ Here Is The Help For My Commands.</b>"""
 ○ Support Group: <a href='t.me/+6j3pcJ3O9GM0MjFl'>Movie Mixology [Chat Group]</a></b>"""
 
     SOURCE_TXT = """<b>
-○ Source - <a href='t.me/UNKNOWN_MAN_ON_MISSION'>ʀᴇᴘᴏ ʟɪɴᴋ </a>
-✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
-✭ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ʏᴏᴜʀ ᴏᴡɴ ᴀɴʏ ᴛʏᴘᴇ ᴏғ ʙᴏᴛ ᴛʜᴇɴ ᴅᴍ ᴍᴇ " ᴘᴀɪᴅ "</b>
+○ Source - Sorry Sir i cannot provide the source code.
+If you want you own bot then Contact 💬: @MixologyOwnerBot</b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
