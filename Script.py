@@ -144,7 +144,7 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟ
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-Create a account using link - <a herf='https://dashboard.shareus.io/signup/lifetime/QH8bDv'>Link 🔗</a>
+Create a account using link - <a href='https://dashboard.shareus.io/signup/lifetime/QH8bDv'>Link 🔗</a>
 
 Then 💬 Contact: @MixologyOwnerBot I will guide you step by step </b>
 """
