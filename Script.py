@@ -93,12 +93,12 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     STATUS_TXT = """<b>⍟────[ Bot Status ]────⍟
 • Total Files: <code>{}</code>
-★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
-★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
-★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-★ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='t.me/UNKNOWN_MAN_ON_MISSION'>ᴜɴᴋɴᴏᴡɴ</a></b>
-•❅─────✧❅✦❅✧─────❅•"""
+★ Total Users: <code>{}</code>
+★ Total Chats: <code>{}</code>
+★ Used Storage: <code>{}</code>
+★ Free Storage: <code>{}</code>
+★ Powered By: <a href='t.me/MovieMixologyManager'>Movie Mixology's Manager</a></b>
+•⍟─────✧❅✦❅✧─────⍟•"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
