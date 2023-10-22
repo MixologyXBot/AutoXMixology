@@ -187,7 +187,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     FORCE_SUB = """You need to join @MovieMixologyManager Channel to use this bot!
 
-<b>And click on Try Again to get your file(s)!</b>"""
+**And click on Try Again to get your file(s)!**"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
