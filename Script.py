@@ -5,13 +5,9 @@ Join: <b>@MixologyMoviesSeries</b> Group 👥 and Download ⚡"""
     HELP_TXT = """<b>Hey {}
 Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='t.me/UNKNOWN_MAN_ON_MISSION'>ᴜɴᴋɴᴏᴡɴ</a>
-✯ Lɪʙʀᴀʀʏ: <a href='docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: <a href='www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-✯ DᴀᴛᴀBᴀsᴇ: <a href='www.mongodb.com'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: Pʀɪᴠᴀᴛᴇ
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
+    ABOUT_TXT = """<b>○ Created: <a href='t.me/MovieMixologyManager'>Movie Mixology's Manager</a>
+○ Channel: <a href='t.me/moviemixology'>Movie Mixology</a>
+○ Support Group: <a href='t.me/+6j3pcJ3O9GM0MjFl'>Pʏᴛʜᴏɴ 3</a></b>"""
 
     SOURCE_TXT = """<b>
 ✭ Sᴏᴜʀᴄᴇ - <a href='t.me/UNKNOWN_MAN_ON_MISSION'>ʀᴇᴘᴏ ʟɪɴᴋ </a>
