@@ -324,11 +324,11 @@ Uꜱᴇʀ Sᴛᴀᴛᴜꜱ : Vᴇʀɪғɪᴇᴅ</b>
 """
 
     RESTART_TXT = """
-<b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+<b>Bot Restarted!
 
-📅 Dᴀᴛᴇ : <code>{}</code>
-⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+📆 Date : <code>{}</code>
+⏱ Time: <code>{}</code>
+🌐 Timezone: <code>Asia/Kolkata</code>
+🛠️ Build Status: <code>v1.1 [ Stable ]</code></b>"""
 
     LOGO = """nothing"""
