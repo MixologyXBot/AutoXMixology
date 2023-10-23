@@ -1383,11 +1383,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('Add Me To Your Group', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ ⇀', url=GRP_LNK)
+                    InlineKeyboardButton('Mixology Movies Series Group 👥', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('Aʙᴏᴜᴛ ⇀', callback_data='about')
+                    InlineKeyboardButton('About', callback_data='about')
                 ],[
-                    InlineKeyboardButton('✪ Jᴏɪɴ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟs ✪', callback_data="chnl_info")
+                    InlineKeyboardButton('Join Update Channel', callback_data="chnl_info")
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
