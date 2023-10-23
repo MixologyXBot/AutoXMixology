@@ -311,7 +311,7 @@ coммand and υѕeѕ
 
     VERIFED_TXT = """<b>Hey {},
 
-ʏᴏᴜ ᴀʀᴇ sᴜᴄᴄᴇssғᴜʟʟʏ ᴠᴇʀɪғɪᴇᴅ ! ɴᴏᴡ ʏᴏᴜ ʜᴀᴠᴇ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ғᴏʀ ᴀʟʟ ᴍᴏᴠɪᴇs ᴛɪʟʟ ᴛᴏᴅᴀʏ ᴍɪᴅɴɪɢʜᴛ.</b>"""
+You are Successfully Verified ✅, Now you have unlimited access for all Files 📂 till today midnight.</b>"""
 
     VERIFY_TXT = """<b>Hey {},
 
