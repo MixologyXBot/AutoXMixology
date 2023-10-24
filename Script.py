@@ -120,7 +120,7 @@ Name - {}"""
     CUDNT_FND = """<b>Sᴘᴇʟʟɪɴɢ Mɪsᴛᴀᴋᴇ Bʀᴏ ‼️
 Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟᴏᴡ👇</b>"""
 
-    I_CUDNT = """<b>Sorry I couldn't find any Movies/Series related to given word ~~{}~~ 
+    I_CUDNT = """<b>Sorry sir, This Movies/Series not Uploaded ~~{}~~ 
 
 💬Contact Our Support Group: <a href='t.me/+6j3pcJ3O9GM0MjFl'>MovieMixology [Chat Group]</a></b>"""
 
