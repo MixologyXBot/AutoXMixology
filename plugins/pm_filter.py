@@ -2154,7 +2154,7 @@ async def auto_filter(client, msg, spoll=False):
                 cap += f"<b>\n📁 <a href='https://telegram.me/{temp.U_NAME}?start=files_{file.file_id}'>[{get_size(file.file_size)}] {' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@') and not x.startswith('www.') and not x.startswith('tg') and not x.startswith('telegram'), file.file_name.split()))}\n</a></b>"
     else:
         if settings["button"]:
-            cap = f"<b>The Query For: {search}\n\nSearch By: {message.from_user.mention}\n\nResult Show in: {remaining_seconds} secs\n\nCo-Powred By: {message.chat.title} \n\n⚠️ After 5min This Message Will Be Automatically Deleted 🗑️\n\n</b>"
+            cap = f"<b>The Query For: {search}\n\nSearched By: {message.from_user.mention}\n\nResult Show in: {remaining_seconds} secs\n\nCo-Powred By: {message.chat.title} \n\n⚠️ After 5min This Message Will Be Automatically Deleted 🗑️\n\n</b>"
         else:
             # cap = f"<b>Hᴇʏ {message.from_user.mention}, Hᴇʀᴇ ɪs ᴛʜᴇ ʀᴇsᴜʟᴛ ғᴏʀ ʏᴏᴜʀ ᴏ̨ᴜᴇʀʏ {search} \n\n</b>"
             cap = f"<b>Hᴇʏ {message.from_user.mention}, Fᴏᴜɴᴅ {total_results} Rᴇsᴜʟᴛs ғᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ {search}\n\n</b>"
