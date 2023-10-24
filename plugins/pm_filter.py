@@ -1496,16 +1496,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('↼ Exᴛʀᴀ Fᴇᴀᴛᴜʀᴇs ⇀', callback_data='mods')
+            InlineKeyboardButton('Extra Features ✨', callback_data='mods')
         ],[ 
-            InlineKeyboardButton('↼ Oᴡɴᴇʀ Iɴғᴏ', callback_data="owner_info"),
-            InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ ⇀', callback_data='source')
+            InlineKeyboardButton('Owner Info', callback_data="owner_info"),
+            InlineKeyboardButton('Source Code', callback_data='source')
             
         ],[
-            InlineKeyboardButton('♙ Hᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('Cʟᴏsᴇ ⊝', callback_data='close_data')
+            InlineKeyboardButton('⬅️ Back', callback_data='start'),
+            InlineKeyboardButton('Close 🔒', callback_data='close_data')
         ],[
-            InlineKeyboardButton('❗ Dɪsᴄʟᴀɪᴍᴇʀ ❗', callback_data='dicl_btn')
+            InlineKeyboardButton('Disclaimer', callback_data='dicl_btn')
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -1802,10 +1802,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],[
                     InlineKeyboardButton("↼  Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ ⇀", url=CHNL_LNK)
                 ],[
-                    InlineKeyboardButton('♙ Hᴏᴍᴇ', callback_data='start'),
-                    InlineKeyboardButton('Cʟᴏsᴇ ⊝', callback_data='close_data')
+                    InlineKeyboardButton('⬅️ Back', callback_data='start'),
+                    InlineKeyboardButton('Close 🔒', callback_data='close_data')
                 ],[
-                    InlineKeyboardButton('❗❗ Dɪsᴄʟᴀɪᴍᴇʀ ❗❗', callback_data='dicl_btn')
+                    InlineKeyboardButton('Disclaimer', callback_data='dicl_btn')
                 ]]
             await client.edit_message_media(
                 query.message.chat.id, 
