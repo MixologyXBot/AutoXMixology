@@ -156,7 +156,8 @@ Then 💬 Contact: @MixologyOwnerBot I will guide you step by step! </b>
 
 ɪꜰ ʏᴏᴜ ᴅᴏ ɴᴏᴛ ꜱᴇᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ / sᴇʀɪᴇs ꜰɪʟᴇ, ʟᴏᴏᴋ ᴀᴛ ᴛʜᴇ ɴᴇxᴛ ᴘᴀɢᴇ"""
 
-    SELECT = """https://t.me/moviemixologymanager/43"""
+    SELECT = """Tap The Button Below According To You Query.
+    If You Couldn't Found Your Query, Then 💬 Contacts Our Support Group"""
 
     SINFO = """
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
