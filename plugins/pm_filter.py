@@ -1322,7 +1322,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url=link.invite_link),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton(" Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ ", url=GRP_LNK)
+                 InlineKeyboardButton("Mixology Movies Series Group 👥", url=GRP_LNK)
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -1796,11 +1796,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "chnl_info":
             btn = [[
-                    InlineKeyboardButton("↼ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ ⇀", url= GRP_LNK)
+                    InlineKeyboardButton("Mixology Movies Series Group 👥", url= GRP_LNK)
                 ],[
-                    InlineKeyboardButton("↼ ʙᴏᴛ ᴄʜᴀɴɴᴇʟ ⇀", url=SPRT_CHNL)
+                    InlineKeyboardButton("Movie Mixology [CHAT GROUP]", url=SPRT_CHNL)
                 ],[
-                    InlineKeyboardButton("↼  Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ ⇀", url=CHNL_LNK)
+                    InlineKeyboardButton("Movie Mixology's Manager", url=CHNL_LNK)
                 ],[
                     InlineKeyboardButton('⬅️ Back', callback_data='start'),
                     InlineKeyboardButton('Close 🔒', callback_data='close_data')
