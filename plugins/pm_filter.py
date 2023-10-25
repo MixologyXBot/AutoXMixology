@@ -2240,7 +2240,7 @@ async def advantage_spell_chok(client, msg):
     if not g_s:
         reqst_gle = query.replace(" ", "+")
         button = [[
-                   InlineKeyboardButton("🔍 𝐂𝐥𝐢𝐜𝐤 𝐓𝐨 𝐂𝐡𝐞𝐜𝐤 𝐒𝐩𝐞𝐥𝐥𝐢𝐧𝐠✅", url=f"https://www.google.com/search?q={reqst_gle}")
+                   InlineKeyboardButton("MovieMixology [CHAT GROUP]", url=f"https://t.me/+6j3pcJ3O9GM0MjFl")
                 ],[
                     InlineKeyboardButton("🔍 𝐂𝐥𝐢𝐜𝐤 𝐓𝐨 𝐂𝐡𝐞𝐜𝐤 𝐑𝐞𝐥𝐞𝐚𝐬𝐞 𝐝𝐚𝐭𝐞📆", url=f"https://www.google.com/search?q={reqst_gle}+release+date")
                 ]]
@@ -2280,7 +2280,7 @@ async def advantage_spell_chok(client, msg):
     if not movielist or chat_type == enums.ChatType.PRIVATE:
         reqst_gle = query.replace(" ", "+")
         button = [[
-                   InlineKeyboardButton("🔍 𝐂𝐥𝐢𝐜𝐤 𝐓𝐨 𝐂𝐡𝐞𝐜𝐤 𝐒𝐩𝐞𝐥𝐥𝐢𝐧𝐠✅", url=f"https://www.google.com/search?q={reqst_gle}")
+                   InlineKeyboardButton("MovieMixology [CHAT GROUP]", url=f"https://t.me/+6j3pcJ3O9GM0MjFl")
                 ],[
                     InlineKeyboardButton("🔍 𝐂𝐥𝐢𝐜𝐤 𝐓𝐨 𝐂𝐡𝐞𝐜𝐤 𝐑𝐞𝐥𝐞𝐚𝐬𝐞 𝐝𝐚𝐭𝐞📆", url=f"https://www.google.com/search?q={reqst_gle}+release+date")
                 ]]
