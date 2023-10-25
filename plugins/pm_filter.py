@@ -2241,8 +2241,6 @@ async def advantage_spell_chok(client, msg):
         reqst_gle = query.replace(" ", "+")
         button = [[
                    InlineKeyboardButton("MovieMixology [CHAT GROUP]", url=f"https://t.me/+6j3pcJ3O9GM0MjFl")
-                ],[
-                    InlineKeyboardButton("🔍 𝐂𝐥𝐢𝐜𝐤 𝐓𝐨 𝐂𝐡𝐞𝐜𝐤 𝐑𝐞𝐥𝐞𝐚𝐬𝐞 𝐝𝐚𝐭𝐞📆", url=f"https://www.google.com/search?q={reqst_gle}+release+date")
                 ]]
         if NO_RESULTS_MSG:
             await client.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, mv_rqst)))
@@ -2281,8 +2279,6 @@ async def advantage_spell_chok(client, msg):
         reqst_gle = query.replace(" ", "+")
         button = [[
                    InlineKeyboardButton("MovieMixology [CHAT GROUP]", url=f"https://t.me/+6j3pcJ3O9GM0MjFl")
-                ],[
-                    InlineKeyboardButton("🔍 𝐂𝐥𝐢𝐜𝐤 𝐓𝐨 𝐂𝐡𝐞𝐜𝐤 𝐑𝐞𝐥𝐞𝐚𝐬𝐞 𝐝𝐚𝐭𝐞📆", url=f"https://www.google.com/search?q={reqst_gle}+release+date")
                 ]]
         if NO_RESULTS_MSG:
             await client.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, mv_rqst)))
