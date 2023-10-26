@@ -109,13 +109,13 @@ Added By - {}"""
 I'D - <code>{}</code>
 Name - {}"""
 
-    ALRT_TXT = """ʜᴇʟʟᴏ {},
-ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ,
-ʀᴇQᴜᴇꜱᴛ ʏᴏᴜʀ'ꜱ..."""
+    ALRT_TXT = """Hey {},
+This is not your Movies/Series Request,
+Request Your's ..."""
 
-    OLD_ALRT_TXT = """ʜᴇʏ {},
-ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴏɴᴇ ᴏꜰ ᴍʏ ᴏʟᴅ ᴍᴇꜱꜱᴀɢᴇꜱ, 
-ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴛʜᴇ ʀᴇQᴜᴇꜱᴛ ᴀɢᴀɪɴ."""
+    OLD_ALRT_TXT = """Hey {},
+You're using old messages, 
+Please send the request again."""
 
     CUDNT_FND = """<b>Sᴘᴇʟʟɪɴɢ Mɪsᴛᴀᴋᴇ Bʀᴏ ‼️
 Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟᴏᴡ👇</b>"""
@@ -161,13 +161,11 @@ Then 💬 Contact: @MixologyOwnerBot I will guide you step by step! </b>
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)"""
 
     NORSLTS = """
-★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
+#NoResults
 
-𝗜𝗗 <b>: {}</b>
-
-𝗡𝗮𝗺𝗲 <b>: {}</b>
-
-𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
+ID <b>: {}</b>
+Name <b>: {}</b>
+Message <b>: {}</b>"""
 
     CAPTION = """{file_caption}""" 
 
@@ -283,13 +281,12 @@ coммand and υѕeѕ
 • /settings - ᴄʜᴀɴɢᴇ sᴇᴛᴛɪɴɢs ᴀs ʏᴏᴜʀ ᴡɪsʜ</b>"""
 
     CHNL_INFO = """<b>
-   🔰 ɢʀᴏᴜᴘs & ᴄʜᴀɴɴᴇʟs ɪɴғᴏ 🔰 
+Group & Channel Info
 
-▫ ᴄᴏᴍᴘʟᴇᴛᴇ ᴍᴏᴠɪᴇs ʀᴇǫᴜᴇsᴛɪɴɢ ɢʀᴏᴜᴘ.
-▫ ᴀʟʟ ʟᴀɴɢᴜᴀɢᴇ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs.
-▫ ғᴀsᴛᴇsᴛ ʙᴏᴛs ᴀʀᴇ ᴀᴅᴅᴇᴅ.
-▫ ғʀᴇᴇ & ᴇᴀsʏ ᴛᴏ ᴜsᴇ.
-▫ 𝟸𝟺x𝟽 sᴇʀᴠɪᴄᴇs ᴀᴠᴀɪʟᴀʙʟᴇ. </b>"""
+▫ Complete Movies/Series Requestin Group.
+▫ All language Movies & Series.
+▫ Free & Easy To Use ᴛᴏ ᴜsᴇ.
+▫ 24×7 Services Available. </b>"""
 
     VERIFED_TXT = """<b>Hey {},
 
