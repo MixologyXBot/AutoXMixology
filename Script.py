@@ -288,13 +288,13 @@ Group & Channel Info
 ▫ Free & Easy To Use ᴛᴏ ᴜsᴇ.
 ▫ 24×7 Services Available. </b>"""
 
-    VERIFED_TXT = """<b>Hey {},
+    VERIFED_TXT = """<b>Hey {},</b>
 
-You are Successfully Verified ✅, Now you have unlimited access for all Files 📂 till today midnight.</b>"""
+You are Successfully Verified ✅, Now you have unlimited access for all Files 📂 till today midnight."""
 
-    VERIFY_TXT = """<b>Hey {},
+    VERIFY_TXT = """<b>Hey {},</b>
 
-You are not verified ❌, Please Verify now and get unlimited access for next verification...</b>"""
+You are not verified ❌, Please Verify now and get unlimited access for today midnight."""
 
     VERIFY2_TXT = """
 <b>Vᴇʀɪғʏ Sᴛᴀᴛᴜꜱ
