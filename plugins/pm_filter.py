@@ -82,7 +82,7 @@ async def pm_text(bot, message):
     )
     await bot.send_message(
         chat_id=LOG_CHANNEL,
-        text=f"#PM_MSG Name: {user} ID: {user_id} <b>Message: {content}</b>"
+        text=f"#PM_MSG\n\nName: {user} ID: {user_id} <b>Message: {content}</b>"
     )
 
 @Client.on_callback_query(filters.regex(r"^next"))
