@@ -26,7 +26,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('Add Me To Your Group', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('↼ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=SPRT_CHNL),
+                    InlineKeyboardButton('Support Group', url=SPRT_CHNL),
                     InlineKeyboardButton('Mixology Movies Series Group 👥', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('Join Update Channel', callback_data="chnl_info")
