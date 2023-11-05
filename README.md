@@ -15,65 +15,65 @@
 
 — Welcome Message
 
-—Automatic File Filtering
+— Automatic File Filtering
 
-—Double Filter Button
+— Double Filter Button
 
-—Single Filter Button
+— Single Filter Button
 
-—Bot PM File Send Mode
+— Bot PM File Send Mode
 
-—Auto File Send
+— Auto File Send
 
-—Forward Restriction
+— Forward Restriction
 
-—File Protect
+— File Protect
 
-—Manual File Filtering
+— Manual File Filtering
 
-—Global File Filtering
+— Global File Filtering
 
-—IMDB
+— IMDB
 
-—Admin Commands
+— Admin Commands
 
-—User Broadcast
+— User Broadcast
 
-—Group Broadcast
+— Group Broadcast
 
-—Index
+— Index
 
-—IMDB search
+— IMDB search
 
-—Inline Search
+— Inline Search
 
-—Random pics
+— Random pics
 
-—ids and User info
+— ids and User info
 
-—Stats
+— Stats
 
-—Users
+— Users
 
-—Chats
+— Chats
 
-—User Ban
+— User Ban
 
-—User Unban
+— User Unban
 
-—Chat Leave
+— Chat Leave
 
-—Chat Disable
+— Chat Disable
 
-—Channel
+— Channel
 
-—Spelling Check Feature
+— Spelling Check Feature
 
-—File Store
+— File Store
 
-—Auto Delete
+— Auto Delete
 
-—And More...
+— And More...
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
