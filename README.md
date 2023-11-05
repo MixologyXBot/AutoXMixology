@@ -1,6 +1,6 @@
 
 
-## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
+## Features ✨
 — IMDB Template Set
 
 — Index Files Above 2GB
