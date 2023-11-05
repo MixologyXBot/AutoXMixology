@@ -6,7 +6,7 @@
 — Index Files Above 2GB
 
 — PreDVD and CamRip Delete Mode
-- [x] 𝑀𝑢𝑙𝑡𝑖𝑝𝑙𝑒 𝐹𝑖𝑙𝑒 𝐷𝑒𝑙𝑒𝑡𝑖𝑜𝑛
+- — Multiple File Deletion
 - [x] 𝑆𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑀𝑒𝑛𝑢
 - [x] 𝐹𝑜𝑟𝑐𝑒 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛
 - [x] 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑀𝑒𝑠𝑠𝑎𝑔𝑒
