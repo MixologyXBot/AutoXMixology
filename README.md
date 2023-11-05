@@ -2,8 +2,8 @@
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
 — IMDB Template Set
-- [x] 𝐼𝑛𝑑𝑒𝑥𝑒𝑠 𝐹𝑖𝑙𝑒𝑠 𝑎𝑏𝑜𝑣𝑒 2𝐺𝐵
-- [x] 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎𝑛𝑑 𝐶𝑎𝑚𝑅𝑖𝑝 𝐷𝑒𝑙𝑒𝑡𝑒 𝑀𝑜𝑑𝑒
+— Index Files Above 2GB
+— PreDVD and CamRip Delete Mode
 - [x] 𝑀𝑢𝑙𝑡𝑖𝑝𝑙𝑒 𝐹𝑖𝑙𝑒 𝐷𝑒𝑙𝑒𝑡𝑖𝑜𝑛
 - [x] 𝑆𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑀𝑒𝑛𝑢
 - [x] 𝐹𝑜𝑟𝑐𝑒 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛
