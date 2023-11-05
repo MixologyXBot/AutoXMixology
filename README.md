@@ -8,9 +8,12 @@
 — PreDVD and CamRip Delete Mode
 
 — Multiple File Deletion
+
 — Settings Menu 
-- [x] 𝐹𝑜𝑟𝑐𝑒 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛
-- [x] 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑀𝑒𝑠𝑠𝑎𝑔𝑒
+
+— Force Subscription
+
+— Welcome Message
 - [x] 𝐴𝑢𝑡𝑜𝑚𝑎𝑡𝑖𝑐 𝐹𝑖𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟𝑖𝑛𝑔
 - [x] 𝐷𝑜𝑢𝑏𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟 𝐵𝑢𝑡𝑡𝑜𝑛
 - [x] 𝑆𝑖𝑛𝑔𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟 𝐵𝑢𝑡𝑡𝑜𝑛
