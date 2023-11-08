@@ -75,7 +75,7 @@
 
 — And More...
 
-## Commands 🫡
+## Commands
 ```
 /invite - To get the invite link of any chat which the bot is admin
 /logs - To get the recent errors
