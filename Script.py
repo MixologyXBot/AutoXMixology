@@ -289,13 +289,17 @@ Group & Channel Info
 ▫ Free & Easy To Use ᴛᴏ ᴜsᴇ.
 ▫ 24×7 Services Available. </b>"""
 
-    VERIFED_TXT = """<b>Hey {},</b>
+    VERIFED_TXT = """<b>Hello {},</b>
 
-You are Successfully Verified ✅, Now you have unlimited access for all Files 📂 till today midnight."""
+You are successfully verified ✅!
 
-    VERIFY_TXT = """<b>Hey {},</b>
+It will be valid for 12 hours"""
 
-You are not verified ❌, Please Verify now and get unlimited access for today midnight."""
+    VERIFY_TXT = """<b>Hello {},</b>
+
+1: You are not verified ❌, please verify now and get unlimited files access.
+
+<b>It will expire after 12 hours !</b>"""
 
     VERIFY2_TXT = """
 <b>Vᴇʀɪғʏ Sᴛᴀᴛᴜꜱ
