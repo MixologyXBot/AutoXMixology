@@ -122,7 +122,7 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟ
 
     I_CUDNT = """<b>Sorry Sir, This Movies/Series not Uploaded [ {} ] 
 
-💬Contact Our Support Group: <a href='t.me/+6j3pcJ3O9GM0MjFl'>MovieMixology [Chat Group]</a></b>
+💬 Contact : @MixologySupport Group</b>
 Will be Uploaded within 24 Hours..."""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
