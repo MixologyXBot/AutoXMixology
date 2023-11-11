@@ -7,7 +7,7 @@ Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>○ Created: <a href='t.me/MovieMixologyManager'>Movie Mixology's Manager</a>
 ○ Channel: <a href='t.me/moviemixology'>Movie Mixology</a>
-○ Support Group: <a href='t.me/+6j3pcJ3O9GM0MjFl'>Movie Mixology [Chat Group]</a></b>"""
+○ Support Group: @MixologySupport</b>"""
 
     SOURCE_TXT = """<b>
 ○ Source - Sorry Sir i cannot provide the source code.
