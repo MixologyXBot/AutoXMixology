@@ -7,12 +7,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AUTO+X+MIXOLOGY+BOT+!;CREATED+BY+@MovieMixology!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
 
-<a href="https://github.com/MixologyXBot/AutoXMixology2/stargazers"><img src="https://img.shields.io/github/stars/MixologyXBot/AutoXMixology2?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/MixologyXBot/AutoXMixology2/network/members"> <img src="https://img.shields.io/github/forks/MixologyXBot/AutoXMixology2?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/MixologyXBot/AutoXMixology2"> <img src="https://img.shields.io/github/repo-size/MixologyXBot/AutoXMixology2?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
-<a href="https://github.com/MixologyXBot/AutoXMixology2/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/MixologyXBot/AutoXMixology2?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/MixologyXBot/AutoXMixology2"> <img src="https://img.shields.io/github/contributors/Joelkb/DQ-The-File-Donor?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/MixologyXBot/AutoXMixology2/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/MixologyXBot/AutoXMixology/stargazers"><img src="https://img.shields.io/github/stars/MixologyXBot/AutoXMixology?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/MixologyXBot/AutoXMixology/network/members"> <img src="https://img.shields.io/github/forks/MixologyXBot/AutoXMixology?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/MixologyXBot/AutoXMixology"> <img src="https://img.shields.io/github/repo-size/MixologyXBot/AutoXMixology?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
+<a href="https://github.com/MixologyXBot/AutoXMixology/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/MixologyXBot/AutoXMixology?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/MixologyXBot/AutoXMixology"> <img src="https://img.shields.io/github/contributors/MixologyXBot/AutoXMixology?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/MixologyXBot/AutoXMixology/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 
