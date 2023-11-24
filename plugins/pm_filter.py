@@ -1795,7 +1795,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                     InlineKeyboardButton("Mixology Movies Series Group 👥", url= GRP_LNK)
                 ],[
-                    InlineKeyboardButton("Movie Mixology [CHAT GROUP]", url=SPRT_CHNL)
+                    InlineKeyboardButton("Mixology Support Group 🫂", url=SPRT_CHNL)
                 ],[
                     InlineKeyboardButton("Movie Mixology's Manager", url=CHNL_LNK)
                 ],[
@@ -2237,7 +2237,7 @@ async def advantage_spell_chok(client, msg):
     if not g_s:
         reqst_gle = query.replace(" ", "+")
         button = [[
-                   InlineKeyboardButton("MovieMixology [CHAT GROUP]", url=f"https://t.me/+6j3pcJ3O9GM0MjFl")
+                   InlineKeyboardButton("Mixology Support Group", url=SPRT_CHNL)
                 ]]
         if NO_RESULTS_MSG:
             await client.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, mv_rqst)))
@@ -2275,7 +2275,7 @@ async def advantage_spell_chok(client, msg):
     if not movielist or chat_type == enums.ChatType.PRIVATE:
         reqst_gle = query.replace(" ", "+")
         button = [[
-                   InlineKeyboardButton("MovieMixology [CHAT GROUP]", url=f"https://t.me/+6j3pcJ3O9GM0MjFl")
+                   InlineKeyboardButton("Mixology Support Group", url=SPRT_CHNL)
                 ]]
         if NO_RESULTS_MSG:
             await client.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, mv_rqst)))
