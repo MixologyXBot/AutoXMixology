@@ -275,7 +275,7 @@ async def next_page(bot, query):
             for file in files:
                 cap += f"<b>📁 <a href='https://telegram.me/{temp.U_NAME}?start=files_{file.file_id}'>[{get_size(file.file_size)}] {' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@') and not x.startswith('www.') and not x.startswith('tg') and not x.startswith('telegram'), file.file_name.split()))}\n\n</a></b>"
         else:
-            cap = f"<b>Hey {query.from_user.mention}, \nFound {total} Results For Your Query: {search}\n\n</b>"
+            cap = f"<b>Hey {query.from_user.mention}, \nFound {total} Results For Your Query: {search}\n\n</b><b>Note:</b> <spoiler>This Message Will Be Deleted After 5 Minutes To Prevent Copyright !</spoiler>\n\n"
             cap+="<b><u>🗂️ Select Files Here ⬇️</u></b>\n\n"
             for file in files:
                 cap += f"<b>📁 <a href='https://telegram.me/{temp.U_NAME}?start=files_{file.file_id}'>[{get_size(file.file_size)}] {' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@') and not x.startswith('www.') and not x.startswith('tg') and not x.startswith('telegram'), file.file_name.split()))}\n\n</a></b>"
@@ -2149,7 +2149,7 @@ async def auto_filter(client, msg, spoll=False):
             cap = f"<b>Hey {message.from_user.mention}\nThe Query For: {search}\n\nCo-Powred By: {message.chat.title} \n\nThis Message Will Be Deleted After 5 Minutes To Prevent Copyright !\n\n</b>"
         else:
             # cap = f"<b>Hᴇʏ {message.from_user.mention}, Hᴇʀᴇ ɪs ᴛʜᴇ ʀᴇsᴜʟᴛ ғᴏʀ ʏᴏᴜʀ ᴏ̨ᴜᴇʀʏ {search} \n\n</b>"
-            cap = f"<b>Hey {message.from_user.mention}, \nFound {total_results} Results For Your Query: {search}\n\n</b>"
+            cap = f"<b>Hey {message.from_user.mention}, \nFound {total_results} Results For Your Query: {search}\n\n</b><b>Note:</b> <spoiler>This Message Will Be Deleted After 5 Minutes To Prevent Copyright !</spoiler>\n\n"
             cap+="<b><u>🗂️ Select Files Here ⬇️</u></b>\n\n"
             for file in files:
                 cap += f"<b>📁 <a href='https://telegram.me/{temp.U_NAME}?start=files_{file.file_id}'>[{get_size(file.file_size)}] {' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@') and not x.startswith('www.') and not x.startswith('tg') and not x.startswith('telegram'), file.file_name.split()))}\n\n</a></b>"
