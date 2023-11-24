@@ -253,9 +253,9 @@ async def start(client, message):
         k = await client.send_message(chat_id=message.from_user.id,text=f"<b>Get All Files in a Single Click!!!\n\n📂 ʟɪɴᴋ ➠ : {g}\n\n<i>Note: This message is deleted in 5 mins to avoid copyrights. Save the link to Somewhere else</i></b>", reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
+                        InlineKeyboardButton('DOWNLOAD LINK 📥', url=g)
                     ], [
-                        InlineKeyboardButton('🤔 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤔', url=await get_tutorial(chat_id))
+                        InlineKeyboardButton('HOW TO DOWNLOAD❓', url=await get_tutorial(chat_id))
                     ]
                 ]
             )
@@ -274,9 +274,9 @@ async def start(client, message):
         k = await client.send_message(chat_id=user,text=f"<b>File Name:</b> {files.file_name} \n\nSize: <code>{get_size(files.file_size)}</code>\n\nDOWNLOAD LINK 📥: {g}\n\n<b>Note:</ b> <spoiler>This Message is Deleted in 20 Minutes to Avoid Copyrights.</spoiler>", reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
+                        InlineKeyboardButton('DOWNLOAD LINK 📥', url=g)
                     ], [
-                        InlineKeyboardButton('🤔 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤔', url=await get_tutorial(chat_id))
+                        InlineKeyboardButton('HOW TO DOWNLOAD❓', url=await get_tutorial(chat_id))
                     ]
                 ]
             )
@@ -352,9 +352,9 @@ async def start(client, message):
             k = await client.send_message(chat_id=message.from_user.id,text=f"<b>File Name:</b> {files.file_name} \n\nSize: <code>{get_size(files.file_size)}</code>\n\nDOWNLOAD LINK 📥: {g}\n\n<b>Note:</b> <spoiler>This Message is Deleted in 20 Minutes to Avoid Copyrights.</spoiler>", reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
+                            InlineKeyboardButton('DOWNLOAD LINK 📥', url=g)
                         ], [
-                            InlineKeyboardButton('🤔 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤔', url=await get_tutorial(chat_id))
+                            InlineKeyboardButton('HOW TO DOWNLOAD❓', url=await get_tutorial(chat_id))
                         ]
                     ]
                 )
