@@ -119,10 +119,10 @@ Please send the request again."""
     CUDNT_FND = """<b>Sᴘᴇʟʟɪɴɢ Mɪsᴛᴀᴋᴇ Bʀᴏ ‼️
 Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟᴏᴡ👇</b>"""
 
-    I_CUDNT = """<b>Sorry Sir, This Movies/Series not Uploaded [ {} ] 
+    I_CUDNT = """This Movies, Series is Not Uploaded ({}) 
 
-💬 Contact : @MixologySupport Group</b>
-Will be Uploaded within 24 Hours..."""
+💬 Contact: <b>@MixologySupport</b> Group !
+Will be Uploaded within 24 Hours."""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
