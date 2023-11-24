@@ -1331,7 +1331,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             try:
                 await client.send_message(chat_id=int(from_user), text=f"Hey {user.mention}, \n𝖸𝗈𝗎𝗋 R𝖾𝗊𝗎𝖾𝗌𝗍 𝗂𝗌 A𝗅𝗋𝖾𝖺𝖽𝗒 A𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 𝗈𝗇 𝖡𝗈𝗍. 𝖪𝗂𝗇𝖽𝗅𝗒 S𝖾𝖺𝗋𝖼𝗁 in Our Group <b>@MixologyMoviesSeries</b> !", reply_markup=InlineKeyboardMarkup(btn2))
             except UserIsBlocked:
-                await client.send_message(chat_id=int(SUPPORT_CHAT_ID), text=f"Hey {user.mention}, \nYour Request is Already Available on Bot. Kindly Search in Our Group <b>@MixologyMoviesSeries</b> ! \n\n<b>Note:</b> <s>This Message is Sent To This Group Because You've Blocked The Bot. To Get Your File(s), Must Unblock The Bot</s>", reply_markup=InlineKeyboardMarkup(btn2))
+                await client.send_message(chat_id=int(SUPPORT_CHAT_ID), text=f"Hey {user.mention}, \nYour Request is Already Available on Bot. Kindly Search in Our Group <b>@MixologyMoviesSeries</b> ! \n\n<b>Note:</b> <s>This Message is Sent To This Group Because You've Blocked The Bot. To Get Your File(s), Must Unblock The Bot.</s>", reply_markup=InlineKeyboardMarkup(btn2))
         else:
             await query.answer("Yᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ sᴜғғɪᴄɪᴀɴᴛ ʀɪɢᴛs ᴛᴏ ᴅᴏ ᴛʜɪs !", show_alert=True)
 
