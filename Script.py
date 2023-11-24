@@ -91,14 +91,13 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /delallg - <code>Tᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ Gғɪʟᴛᴇʀs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
 • /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>"""
 
-    STATUS_TXT = """<b>⍟────[ Bot Status ]────⍟
-• Total Files: <code>{}</code>
-• Total Users: <code>{}</code>
-• Total Chats: <code>{}</code>
-• Used Storage: <code>{}</code>
-• Free Storage: <code>{}</code>
-• Powered By: @MovieMixologyManager</b>
-•⍟─────✧❅✦❅✧─────⍟•"""
+    STATUS_TXT = """<b>🚀 Bot Status</b>
+
+• 🗂️ Total Files: <code>{}</code>
+• 👤 Total Users: <code>{}</code>
+• 💬 Total Chats: <code>{}</code>
+• 🗃️ Used Storage: <code>{}</code>
+• 🆓 Free Storage: <code>{}</code></b>"""
 
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
