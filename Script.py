@@ -5,11 +5,11 @@ Join: <b>@MixologyMoviesSeries</b> Group 👥 and Download ⚡"""
     HELP_TXT = """<b>Hey {}
 Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>○ My Name: {}
+    ABOUT_TXT = """○ My Name: <b>{}</b>
 ○ Created: <a href='t.me/MovieMixologyManager'>Movie Mixology's Manager</a>
 ○ Language: Python 3
 ○ Database: <a href='https://www.mongodb.com'>MongoDB Free Tier</a>
-○ Support Group: @MixologySupport</b>"""
+○ Support Group: @MixologySupport"""
 
     SOURCE_TXT = """<b>
 ○ Source - Sorry Sir i cannot provide the source code.
