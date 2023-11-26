@@ -110,16 +110,17 @@ Added By - {}"""
 I'D - <code>{}</code>
 Name - {}"""
 
-    ALRT_TXT = """Hey {},
-This is not your Movies/Series Request,
-Request Your's ..."""
+    ALRT_TXT = """Hello {},
+This is Not your Request
+Request Yourself...!!"""
 
     OLD_ALRT_TXT = """Hey {},
-You're using old messages, 
-Please send the request again."""
+You're using one of old messages, 
+Request Again"""
 
-    CUDNT_FND = """<b>Sᴘᴇʟʟɪɴɢ Mɪsᴛᴀᴋᴇ Bʀᴏ ‼️
-Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟᴏᴡ👇</b>"""
+    CUDNT_FND = """<b><i>
+𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍
+𝖣𝗂𝖽 𝗒𝗈𝗎 𝗆𝖾𝖺𝗇 𝖺𝗇𝗒 𝗈𝗇𝖾 𝗈𝖿 𝗍𝗁𝖾𝗌𝖾?</i></b>"""
 
     I_CUDNT = """This Movies, Series is Not Uploaded (<b>{}</b>) 
 
@@ -131,7 +132,7 @@ Will be Uploaded within 24 Hours."""
 
     MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ..."""
 
-    TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
+    TOP_ALRT_MSG = """𝖢𝗁𝖾𝖼𝗄𝗂𝗇𝗀 𝖿𝗈𝗋 𝗊𝗎𝖾𝗋𝗒 𝗂𝗇 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾..."""
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
