@@ -261,7 +261,7 @@ async def start(client, message):
             )
         )
         await asyncio.sleep(300)
-        await k.edit("<b>Yᴏᴜʀ ᴍᴇssᴀɢᴇ ɪs sᴜᴄᴄᴇssғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ!!!</b>")
+        await k.edit("<b>Your Message is Successfully Deleted 🚮 !</b>")
         return
         
     
@@ -282,7 +282,7 @@ async def start(client, message):
             )
         )
         await asyncio.sleep(1200)
-        await k.edit("<b>Yᴏᴜʀ ᴍᴇssᴀɢᴇ ɪs sᴜᴄᴄᴇssғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ!!!</b>")
+        await k.edit("<b>Your Message is Successfully Deleted 🚮 !</b>")
         return
         
     elif data.startswith("all"):
@@ -360,7 +360,7 @@ async def start(client, message):
                 )
             )
             await asyncio.sleep(1200)
-            await k.edit("<b>Yᴏᴜʀ ᴍᴇssᴀɢᴇ ɪs sᴜᴄᴄᴇssғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ!!!</b>")
+            await k.edit("<b>Your Message is Successfully Deleted 🚮 !</b>")
             return
     user = message.from_user.id
     files_ = await get_file_details(file_id)           
