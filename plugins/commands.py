@@ -628,27 +628,27 @@ async def settings(client, message):
         buttons = [
             [
                 InlineKeyboardButton(
-                    '📜 Result Page',
+                    'Filter Button',
                     callback_data=f'setgs#button#{settings["button"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '🔘 Button' if settings["button"] else '📝 Text',
+                    'Button' if settings["button"] else 'Text',
                     callback_data=f'setgs#button#{settings["button"]}#{grp_id}',
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    '📳 File Send Mode',
+                    'File Send Mode',
                     callback_data=f'setgs#botpm#{settings["botpm"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '🔄 Manual Start' if settings["botpm"] else '☑️ Auto Mode',
+                    'Manual Start' if settings["botpm"] else 'Auto Mode',
                     callback_data=f'setgs#botpm#{settings["botpm"]}#{grp_id}',
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    '🛡️ Protect Content',
+                    'Protect Content',
                     callback_data=f'setgs#file_secure#{settings["file_secure"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
@@ -668,7 +668,7 @@ async def settings(client, message):
             ],
             [
                 InlineKeyboardButton(
-                    '✔️ Spell Check',
+                    'Spell Check',
                     callback_data=f'setgs#spell_check#{settings["spell_check"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
@@ -678,7 +678,7 @@ async def settings(client, message):
             ],
             [
                 InlineKeyboardButton(
-                    '📬 Welcome MSG',
+                    'Welcome MSG',
                     callback_data=f'setgs#welcome#{settings["welcome"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
@@ -688,17 +688,17 @@ async def settings(client, message):
             ],
             [
                 InlineKeyboardButton(
-                    '🚮 Auto Delete',
+                    'Auto Delete',
                     callback_data=f'setgs#auto_delete#{settings["auto_delete"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '⏳ 10 Mins' if settings["auto_delete"] else '❌ Off',
+                    '5 Mins' if settings["auto_delete"] else '❌ Off',
                     callback_data=f'setgs#auto_delete#{settings["auto_delete"]}#{grp_id}',
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    '🎛️ Auto Filter',
+                    'Auto Filter',
                     callback_data=f'setgs#auto_ffilter#{settings["auto_ffilter"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
@@ -708,7 +708,7 @@ async def settings(client, message):
             ],
             [
                 InlineKeyboardButton(
-                    '🔘 Max Buttons',
+                    'Max Buttons',
                     callback_data=f'setgs#max_btn#{settings["max_btn"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
@@ -718,7 +718,7 @@ async def settings(client, message):
             ],
             [
                 InlineKeyboardButton(
-                    '🔗 Short Link',
+                    'Short Link',
                     callback_data=f'setgs#is_shortlink#{settings["is_shortlink"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
