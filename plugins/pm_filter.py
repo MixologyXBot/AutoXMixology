@@ -67,7 +67,7 @@ async def give_filter(client, message):
         if total_results == 0:
             return
         else:
-            return await message.reply_text(f"<b>Hey {message.from_user.mention},\n📂 {str(total_results)} 𝖱𝖾𝗌𝗎𝗅𝗍𝗌 𝖺𝗋𝖾 𝖿𝗈𝗎𝗇𝖽 𝖿𝗈𝗋 𝗒𝗈𝗎𝗋 q𝗎𝖾𝗋𝗒 {search}.\n\nKindly search movies, series here ⬇️\n@MixologyMoviesSeries</b>")
+            return await message.reply_text(f"<b>Hey {message.from_user.mention},\n📂 {str(total_results)} 𝖱𝖾𝗌𝗎𝗅𝗍𝗌 𝖺𝗋𝖾 𝖿𝗈𝗎𝗇𝖽 𝖿𝗈𝗋 𝗒𝗈𝗎𝗋 q𝗎𝖾𝗋𝗒 {search}.\n\nKindly Search Movies, Series Here ⬇️\n@MixologyMoviesSeries</b> !")
 
 @Client.on_message(filters.private & filters.text & filters.incoming)
 async def pm_text(bot, message):
