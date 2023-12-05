@@ -11,9 +11,16 @@ Here Is The Help For My Commands.</b>"""
 ○ Database: <a href='https://www.mongodb.com'>MongoDB Free Tier</a>
 ○ Support Group: @MixologySupport"""
 
-    SOURCE_TXT = """<b>
-○ Source - Sorry Sir i cannot provide the source code.
-If you want you own bot then Contact 💬: @MixologyOwnerBot</b>
+    SOURCE_TXT = """
+<b>NOTE:</b>
+⚠️ 𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖨𝗌 𝖭𝗈𝗍 𝖠𝗇 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖯𝗋𝗈𝗃𝖾𝖼𝗍.!
+
+Thanks To Me For Spending Time For This.
+
+𝖲𝗉𝖾𝖼𝗂𝖺𝗅 𝖳𝗁𝖺𝗇𝗄𝗌 𝖳𝗈 𝖬𝗒 𝖳𝖦 𝖥𝗋𝗂𝖾𝗇𝖽𝗌 𝖳𝗈𝗈.
+
+𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝖽 𝖡𝗒:
+@MixologyOwnerBoy
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
